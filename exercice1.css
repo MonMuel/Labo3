@@ -1,0 +1,32 @@
+.bleu{
+    background-color: blue;
+}
+
+.rouge{
+    background-color: red;
+}
+
+.noire{
+    background-color: black;
+}
+
+.vert{
+    background-color: green;
+}
+
+.jaune{
+    background-color: yellow;
+}
+
+.centreTable{
+    margin:auto;
+    border-collapse: collapse;
+    height:300px;
+    width:300px;
+    
+
+}
+.centre {
+    text-align:center;
+
+}

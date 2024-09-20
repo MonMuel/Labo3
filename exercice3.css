@@ -1,0 +1,15 @@
+table,th,td{
+    border-color: black;
+    border-style:solid;
+    border-collapse: collapse;
+    border-width:2px;
+}
+
+
+.gra{
+    font-weight: bold;
+}
+
+.centre{
+    text-align: center;
+}

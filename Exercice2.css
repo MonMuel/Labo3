@@ -1,0 +1,71 @@
+body{
+    background-image:url(image/canada.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+    
+h1{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    text-align:center;
+}
+
+.bla{
+    color:white;
+}
+
+th{
+    color:white;
+    font-size: 2em;
+}
+
+
+
+.centreTable{
+    margin:auto;
+   
+}
+
+th,table,td{
+    border-color:black;
+    border-style:solid;
+    border-collapse: collapse;
+    border-width:4px;
+
+    width: 1110px;
+    height: 60px;
+    font-size: 1.3em;
+
+}
+
+.centreTexte{
+    text-align:center;
+    font-size: 1.3em;
+}
+
+.cate{
+    text-align:center;
+    color:white;
+}
+
+.couleurTab{
+    background-color: black;
+}
+
+tr:nth-child(even){
+    background-color: aqua;
+}
+
+.couleurT{
+    color:red;
+}
+    
+
+
+
+
+
+
+
